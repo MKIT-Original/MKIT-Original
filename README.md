@@ -10,15 +10,15 @@
 
   <p align="center">
     <a href="https://www.youtube.com/c/Mkitt">
-      <img src="https://skillicons.dev/icons?i=youtube" width="50px" alt="YouTube" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="45" height="45" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://www.instagram.com/mkit.offcial?utm_source=qr">
-      <img src="https://skillicons.dev/icons?i=instagram" width="50px" alt="Instagram" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="45" height="45" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://t.me/Mkit_ORG">
-      <img src="https://skillicons.dev/icons?i=telegram" width="50px" alt="Telegram" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" width="45" height="45" />
     </a>
   </p>
 
