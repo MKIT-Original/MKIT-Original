@@ -25,8 +25,11 @@
     <a href="https://github.com/MKIT-Original">
       <img src="https://cdn.simpleicons.org/github/ffffff" width="45" style="background:#181717; border-radius:50%; padding:8px; border: 1px solid #eeeeee;" />
     </a>
+    &nbsp;&nbsp;
+    <a href="https://pin.it/6VjUmu5kY">
+      <img src="https://cdn.simpleicons.org/pinterest/E60023" width="45" style="background:white; border-radius:50%; padding:8px;" />
+    </a>
 </p>
-
 
 ---
 
