@@ -8,19 +8,22 @@
     <strong>Just a maker sharing my workbench experiments with the world. ⚡️🛠</strong>
   </p>
 
-  <p align="center">
-    <a href="https://www.youtube.com/c/Mkitt">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="45" height="45" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/mkit.offcial?utm_source=qr">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="45" height="45" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/Mkit_ORG">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" width="45" height="45" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.youtube.com/c/Mkitt">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" style="background:white;border-radius:50%;padding:8px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mkit.offcial">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" style="background:white;border-radius:50%;padding:8px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Mkit_ORG">
+    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="50" style="background:white;border-radius:50%;padding:8px;" />
+  </a>
+</p>
+
+
+
 
 </div>
 
