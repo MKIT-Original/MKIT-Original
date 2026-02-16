@@ -1,31 +1,32 @@
 <div align="center">
 
-  <img src="./image.logo.png" alt="M Kit Logo" width="180px" />
+  <img src="./image.logo.png" alt="M Kit Logo" width="160px" 
+       style="background: white; border-radius: 20px; border: 3px solid #007bff; padding: 10px;" />
 
-  <h1>❤️ Welcome to M Kit ❤️</h1>
+  <h2 align="center" style="margin-top: 20px;">❤️ Welcome to M Kit ❤️</h2>
 
-  <p>
+  <p align="center">
     <strong>Just a maker sharing my workbench experiments with the world. ⚡️🛠</strong>
   </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/Mkitt">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" style="background:white;border-radius:50%;padding:8px;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/mkit.offcial">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" style="background:white;border-radius:50%;padding:8px;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/Mkit_ORG">
-    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="50" style="background:white;border-radius:50%;padding:8px;" />
-  </a>
+    <a href="https://www.youtube.com/c/Mkitt">
+      <img src="https://cdn.simpleicons.org/youtube/FF0000" width="45" style="background:white; border-radius:50%; padding:8px;" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/mkit.offcial">
+      <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" style="background:white; border-radius:50%; padding:8px;" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://t.me/Mkit_ORG">
+      <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="45" style="background:white; border-radius:50%; padding:8px;" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/MKIT-Original">
+      <img src="https://cdn.simpleicons.org/github/ffffff" width="45" style="background:#181717; border-radius:50%; padding:8px; border: 1px solid #eeeeee;" />
+    </a>
 </p>
 
-
-
-
-</div>
 
 ---
 
